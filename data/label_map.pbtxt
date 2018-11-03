@@ -1,0 +1,9 @@
+item {
+  id: 1
+  name: 'Popuko'
+}
+
+item {
+  id: 2
+  name: 'Pipimi'
+}
